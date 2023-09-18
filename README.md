@@ -41,19 +41,22 @@ To run this Flask application, you'll need to have Flask and SQLAlchemy installe
    ```bash
     pip install Flask
    ```
-3. **Install SQLAlchemy**
+3. **Install SQLAlchemy:**
 
    ```bash
     pip install SQLAlchemy
    ```
-4. **Running the Application**
+4. **Running the Application:**
+   
    Run the main.py file to start the application using the command.
 
    ```bash
    python3 main.py
    ```
-5. **Opening the Application**
+6. **Opening the Application:**
+   
    Your application will be accessible at http://localhost:5000 in your web browser.
+
 
 ## Contributing
 
