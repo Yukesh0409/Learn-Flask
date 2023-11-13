@@ -34,7 +34,7 @@ To run this Flask application, you'll need to have Flask and SQLAlchemy installe
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Yukesh0409/Learn-Flask
    ```
 2. **Install Flask and SQLAlchemy:**
 
